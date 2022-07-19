@@ -1,0 +1,71 @@
+{
+  "signupUsersList": [
+    {
+      "id": 1,
+      "email": "bolu@gmail.com",
+      "password": "1234"
+    },
+    {
+      "email": "m@gmail.com",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "email": "MVS",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "email": "MVS",
+      "password": "1234567",
+      "id": 4
+    },
+    {
+      "email": "MVS",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "email": "MVS",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "email": "MVS",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "email": "m1@gmail.com",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "email": "m@gmail.com",
+      "password": "123456",
+      "id": 9
+    },
+    {
+      "email": "m@gmail.com",
+      "password": "123456",
+      "id": 10
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
